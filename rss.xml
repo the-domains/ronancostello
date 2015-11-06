@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[RonanCostello]]></title>
+        <description><![CDATA[RonanCostello]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 06 Nov 2015 20:31:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[RECONSIDER]]></title>
+            <description><![CDATA[<article><h1>RECONSIDER</h1><p>About 12 years ago, I co-founded a startup called Basecamp: A simple project collaboration tool that helps people make progress together, sold on a monthly subscription. It took a part of some people's work life and made it a little better.</p><img src="https://cdn-images-1.medium.com/max/2000/1*aQrgExniHXF_37Hxemw8TA.png"></article>]]></description>
+            <link>https://medium.com/@dhh/reconsider-41adf356857f</link>
+            <guid isPermaLink="false">52eb59db-c159-4483-b65a-92341cfaa33d</guid>
+            <pubDate>Fri, 06 Nov 2015 20:30:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
