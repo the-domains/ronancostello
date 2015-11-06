@@ -1,0 +1,23 @@
+name: RonanCostello
+favicon: null
+layout_spectrum: 0.35400908230803907
+typography_spectrum: 0.6068708258680999
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.07482580561190844
+  lightness: 0.40612899302504957
+  saturation: 0.9706369754858315
+  rhythmicContrast: 0.48789982637390494
+purpose: []
